@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/Mohamed-kassim/OAuth-Passport.js-Practice#readme",
   "dependencies": {
+    "cookie-session": "^2.0.0-beta.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
+    "mongoose": "^5.2.4",
     "passport": "^0.4.0",
     "passport-facebook": "^2.1.1",
     "passport-google-oauth": "^1.0.0",
